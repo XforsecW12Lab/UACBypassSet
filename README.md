@@ -1,5 +1,3 @@
-[TOC]
-
 # UACBypass 整理
 
 ### 先来讲讲之前病毒里遇到的 通过.NET劫持Ole32.dll
