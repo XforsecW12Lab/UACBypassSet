@@ -37,7 +37,7 @@
   	return TRUE;
   }
   ```
-
+**DLL已经上传至了UseDLL**
 - 成功启动管理员cmd![image-20210312152834847](https://github.com/XforsecW12Lab/UACBypassSet/blob/main/Images/image-20210312152834847.png)
 
 - 但是这里就产生了一个问题，就是`%windir%`的目录下，复制进去是需要管理员权限的，那不就死循环了么？
